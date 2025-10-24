@@ -1,0 +1,1 @@
+Modificación do archivo asinado para probar el comando git stash
